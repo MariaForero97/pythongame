@@ -1,14 +1,10 @@
 # Programas necesarios para el funcionamiento del proyecto
-1. [Composer](https://getcomposer.org/download/)
 1. [Git](https://git-scm.com/downloads)
-2. XAMPP ó LAMP
-
 
 # Como instalar y ejecutar en este proyecto
 1. Se ubican en el directorio donde puedan empezar a trabajar.
-2. Clonar el repositorio desde su equipo local con la siguiente instrucción `git clone https://github.com/jjoselon/shopcar.git`.
-3. Desde la carpeta raiz del proyecto ejecutar `composer install`
-4. Ejecutar `php artisan serve`
+2. Clonar el repositorio desde su equipo local con la siguiente instrucción `git clone https://github.com/MariaForero97/pythongame.`
+
 
 
 # Flujo de trabajo para integrar los cambios
@@ -22,10 +18,4 @@
 
 # Solicitud de integración de cambios desde GitHub
 
-1. Creamos un [Pull Request](https://github.com/jjoselon/shopcar/pulls) de nuestros cambios.
-2. Yo me encargo de revisarlos y aceptarlos :). 
-
-
-#Modificaciones
-1. Se modifica tabla personas
-2. Ejecutar el comando php artisan migrate para actualizar la tabla.
+1. Creamos un [Pull Request](https://github.com/MariaForero97/pythongame) de nuestros cambios.
